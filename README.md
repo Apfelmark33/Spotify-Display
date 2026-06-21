@@ -36,6 +36,11 @@ This project will be updated while I learn and build it.
 | Heat-set Inserts | Mechanical assembly for 3D printed case | 1 set | variable | https://www.amazon.de | Amazon |
 
 
+## Wiring Diagramm
+
+<img width="529" height="467" alt="Screenshot 2026-06-21 205757" src="https://github.com/user-attachments/assets/0b52e7fb-2795-437f-9b04-57363f813aba" />
+
+
 ## Images
 <img width="280" height="500" alt="Screenshot 2026-06-21 152635" src="https://github.com/user-attachments/assets/5530f3a2-d430-499c-b391-5351f60e4173" />
 <img width="815" height="409" alt="Screenshot 2026-06-21 152622" src="https://github.com/user-attachments/assets/de50a8ab-ecdd-4ae6-ab49-09e63b6f3474" />
