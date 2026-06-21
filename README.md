@@ -26,6 +26,18 @@ Just started. Learning and building step by step.
 
 This project will be updated while I learn and build it.
 
+## Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Estimated Cost (USD) | Link | Distributor |
+|------|--------|----------|----------------------|------|-------------|
+| ESP32 Dev Board | Main microcontroller for WiFi and API handling | 1 | ~8.87 | https://www.amazon.de | Amazon |
+| 1.8 TFT Display | Displays song info and UI | 1 | ~9.23 | https://www.amazon.de | Amazon |
+| Mechanical Switches (GamaKay Saturn) | Input buttons for control | 3 (from 45 pack) | variable | https://www.amazon.de | Amazon |
+| Heat-set Inserts | Mechanical assembly for 3D printed case | 1 set | variable | https://www.amazon.de | Amazon |
+
+
 ## Images
-<img width="734" height="529" alt="Screenshot 2026-06-19 190531" src="https://github.com/user-attachments/assets/c51a55a0-49bc-479c-ac36-28c73e42ecc5" />
-<img width="784" height="617" alt="Screenshot 2026-06-19 190526" src="https://github.com/user-attachments/assets/e9fc967a-b1f9-42f6-92f9-9fb440c01a16" />
+<img width="280" height="500" alt="Screenshot 2026-06-21 152635" src="https://github.com/user-attachments/assets/5530f3a2-d430-499c-b391-5351f60e4173" />
+<img width="815" height="409" alt="Screenshot 2026-06-21 152622" src="https://github.com/user-attachments/assets/de50a8ab-ecdd-4ae6-ab49-09e63b6f3474" />
+<img width="701" height="468" alt="Screenshot 2026-06-21 152617" src="https://github.com/user-attachments/assets/8ff71e41-487e-48b2-b3eb-7c7e504be72f" />
+
