@@ -38,7 +38,8 @@ This project will be updated while I learn and build it.
 
 ## Wiring Diagramm
 
-<img width="529" height="467" alt="Screenshot 2026-06-21 205757" src="https://github.com/user-attachments/assets/0b52e7fb-2795-437f-9b04-57363f813aba" />
+<img width="484" height="595" alt="Screenshot 2026-06-22 172808" src="https://github.com/user-attachments/assets/c5fb0f8d-817b-4c25-ad53-14c262860361" />
+
 
 
 ## Images
